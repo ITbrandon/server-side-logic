@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "id": "001",
+      "name": "Smartphone",
+      "brand": "Samsung",
+      "price": 699.99,
+      "quantity": 100,
+      "description": "Samsung Galaxy S20 - 6.2\" Display, 128GB Storage, 12GB RAM, Cosmic Gray"
+    },
+    {
+      "id": "002",
+      "name": "Laptop",
+      "brand": "Apple",
+      "price": 1299.99,
+      "quantity": 50,
+      "description": "Apple MacBook Air - 13.3\" Retina Display, 256GB SSD, 8GB RAM, Space Gray"
+    },
+    {
+      "id": "003",
+      "name": "Headphones",
+      "brand": "Sony",
+      "price": 249.99,
+      "quantity": 75,
+      "description": "Sony WH-1000XM4 Wireless Noise-Canceling Over-Ear Headphones, Black"
+    }
+  ]
+}
