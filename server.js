@@ -50,20 +50,3 @@ app.use((req,res) => {
 app.listen(3000, () => {
   console.log('App Listening on Port 3000')
 })
-
-
-
-
-
-
-
-// import http from 'http'
-// let port = 3000
-
-// const server = http.createServer((req,res) => {
-//   res.end('Hello World')
-// })
-
-// server.listen(port)
-
-// console.log(`server Listing on por ${port}`)
